@@ -1,6 +1,6 @@
-# Project Title
-**This sentence is in BOLD text** 
+UFC Stats
+Database Managment Project
 ## Data Files
 *Important files will be here*
-### Linked In
+www.linkedin.com/in/mike-olsen-b7b7821ba
 [HERE IS THE LINK](www.linkedin.com/in/mike-olsen-b7b7821ba)
