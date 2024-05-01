@@ -31,7 +31,7 @@ While the project is designed for public use, contributions to enhance its funct
 ## Author
 - Mike Olsen 🧑‍💼
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/michaelolsen) for more projects and professional updates.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mike-olsen-b7b7821ba/) for more projects and professional updates.
 
 ---
 
